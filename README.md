@@ -1,0 +1,2 @@
+# Exerc-cio-individual---App-Comparativo
+O APLICATIVO DEVE COMPARAR OS DOIS ITENS E APRESENTAR A MELHOR OPÇÃO;
